@@ -6,6 +6,13 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "mabatista@hotmail.com",
+      "password": "best1234",
+      "name": "Matheusão",
+      "age": 29,
+      "id": 2
     }
   ],
   "tracks": [
@@ -69,5 +76,7 @@
       "cover": "https://i1.sndcdn.com/artworks-000080966184-30zyep-t500x500.jpg",
       "music": "https://res.cloudinary.com/dsbkp5841/video/upload/v1685900974/audios/15_-_Nyko_Hay_Kay_-_Avicii_-_Wake_Me_Up_u5iavu.mp3"
     }
-  ]
+  ],
+  "movies": [],
+  "podcasts": []
 }
